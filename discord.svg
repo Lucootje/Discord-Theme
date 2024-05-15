@@ -4,7 +4,7 @@
     <style>
       .cls-1 {
         fill: url(#Naamloos_verloop_4);
-        stroke: #fff;
+        stroke: #1e63b3;
         stroke-linecap: round;
         stroke-linejoin: round;
         stroke-width: .8px;
